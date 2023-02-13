@@ -8,7 +8,7 @@ Załóżmy że pracujemy w ramach projektu poświęconego stworzeniu aplikacji d
 
 Dla realizacji jednego z zadań konieczne jest wykonanie następującego scenariusza :
 	 
-Stwórz klasy reprezentujące Rower, Klienta oraz Stoisko według opisu poniżej.
+Stwórz klasy reprezentujące Rower, Klienta oraz Stoisko według opisu poniże.
 
 Umieśd klasy w osobnych plikach.
 
