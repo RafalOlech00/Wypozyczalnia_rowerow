@@ -23,12 +23,12 @@ Klasa Klient :
 * Inne metody niezbędne do realizacji scenariusza
 		
 Klasa Rower :
-	* Id roweru
-	* Metody wypisz / uzupełnij
-	* Inne metody niezbędne do realizacji scenariusza
+* Id roweru
+* Metody wypisz / uzupełnij
+* Inne metody niezbędne do realizacji scenariusza
 		
 Klasa Stoisko :
-	* Wskażnik* Rowery
-	* Metoda pokażDostępne
-	* Metody wypisz / uzupełnij
-	* Inne metody niezbędne do realizacji scenariusza
+* Wskażnik* Rowery
+* Metoda pokażDostępne
+* Metody wypisz / uzupełnij
+* Inne metody niezbędne do realizacji scenariusza
