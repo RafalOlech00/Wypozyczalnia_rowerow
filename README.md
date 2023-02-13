@@ -16,11 +16,11 @@ Dla realizacji jednego z zadań konieczne jest wykonanie następującego scenari
 * Stwórz funkcję wyświetlająca informację o dostępnych Rowerach przy podanym Stoisku, odpal ją dla obu Stoisk
 		
 Klasa Klient :
-	* Dane
-	* Wskaźnik* wypożyczonyRower
-	* Metody wypisz / uzupełnij
-	* Metody wypożyd / oddaj
-	* Inne metody niezbędne do realizacji scenariusza
+* Dane
+* Wskaźnik* wypożyczonyRower
+* Metody wypisz / uzupełnij
+* Metody wypożyd / oddaj
+* Inne metody niezbędne do realizacji scenariusza
 		
 Klasa Rower :
 	* Id roweru
