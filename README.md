@@ -7,11 +7,8 @@ Założenia projektu:
 Załóżmy że pracujemy w ramach projektu poświęconego stworzeniu aplikacji do zarządzania wypożyczalnią rowerów.
 
 Dla realizacji jednego z zadań konieczne jest wykonanie następującego scenariusza :
-	 
 * Stwórz klasy reprezentujące Rower, Klienta oraz Stoisko według opisu poniżej.
-
 * Umieść klasy w osobnych plikach.
-
 * Stwórz Klienta, 2 Stoiska, Rower oraz tablicę Rowerów
 * Przyporządkuj tablice do Stoiska 1, pojedynczy Rower - do stoiska 2
 * Ustaw pola Klienta, Roweru oraz Stoiska na prywatne
